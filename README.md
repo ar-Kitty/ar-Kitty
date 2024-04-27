@@ -8,10 +8,10 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-> i like coding
+> ur local e-girl
 ```
 
-<img align="left" src="img/bunny_girlaobuta13.png" width="205px"/> 
+<img align="left" src="[IMG]/main.jpg" width="205px"/> 
 
 
 <!--
