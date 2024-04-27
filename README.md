@@ -26,3 +26,6 @@ about me: i like to code weird stuff 🧑‍🚀
 > you are ✨ special ✨
 ```
 
+```zsh
+> ✨ Discord: ar_kitty
+```
