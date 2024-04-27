@@ -16,7 +16,10 @@
 ```css
 username: ar_kitty
 about me: i like to code weird stuff 🧑‍🚀
-⚡ Fun fact: Many People dont like me :)
+
+```
+```zsh
+> ⚡ Fun fact: I love cute things
 ```
 
 ```zsh
