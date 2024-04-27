@@ -13,18 +13,13 @@
 
 <img align="left" src="[IMG]/main.jpg" width="205px"/> 
 
+```css
+username: ar_kitty
+about me: i like to code weird stuff 🧑‍🚀
+⚡ Fun fact: Many People dont like me :)
+```
 
-<!--
-**ar-Kitty/ar-Kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```zsh
+> you are ✨ special ✨
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
