@@ -1,7 +1,7 @@
 <body>
 <br>
 <div align="center">
-<img src="img/banner.gif" width="300px">
+<img src="[IMG]/banner.gif" width="300px">
 </div>
 <br>
 
