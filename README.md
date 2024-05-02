@@ -8,7 +8,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-> ur local e-girl / she/her
+> ur local e-girl 
 ```
 
 <img align="left" src="[IMG]/main.jpg" width="205px"/> 
