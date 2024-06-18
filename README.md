@@ -4,10 +4,7 @@
 <img src="[IMG]/banner.gif" width="600px">
 </div>
 <br>
-<div align="center">
-<img src="[IMG]/cool.svg" width="600px">
-</div>
-<br>
+
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
